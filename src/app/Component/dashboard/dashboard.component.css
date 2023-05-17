@@ -1,0 +1,11 @@
+*{
+    overflow: hidden;
+}
+
+.card-container {
+    display: flex;
+  }
+  
+  .card {
+    flex: 1;
+  }
